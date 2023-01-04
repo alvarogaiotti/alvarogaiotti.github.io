@@ -26,10 +26,11 @@ Besides, I worked extensively
 and for quite a while on causality. I focused especially on 
 {{< rawhtml >}} <abbr 
  title="Structural Causal Model">SCM</abbr><small>s</small>{{< /rawhtml>}},
-  with particular attention devoted to [Judea Pearl](https//:en.wikipedia.org/wiki/Judea_Pearl)'s thought,
+  with particular attention devoted to [Judea Pearl](https//:en.wikipedia.org/wiki/Judea_Pearl)'s framework
+  and thought,
   and tried to apply them to the development of a non-reductive theory
   of causality (which is quite a different beast compared to
-  _old school_ theories). This effort culminated in the writing of my
+  _old school_ theories). This effort culminated in the writing of my (soon to be translated in english)
   [Master's Thesis](ModelliCausali.pdf). If you wanna learn more about the
   incredible world of causality, I wrote a post about it: [go check it out](/posts/causality)!
 
