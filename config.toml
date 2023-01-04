@@ -65,8 +65,8 @@ copyrightStartYear = "2022"
 
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
-description = "A minimal Hugo theme with nice theme color."
-og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
+description = "Alvaro Gaiotti's Personal Page"
+og = "/img/causallogonew1.svg"                                          # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage
 mainSections = ["post"]
