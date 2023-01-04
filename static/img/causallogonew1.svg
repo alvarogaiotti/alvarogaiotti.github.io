@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.370281mm"
+   height="49.601059mm"
+   viewBox="0 0 48.370282 49.601059"
+   version="1.1"
+   id="svg12130"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12127" />
+  <g
+     id="layer1"
+     transform="translate(-4.1863312,3.2582901)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-opacity:1"
+       id="path12190"
+       cx="37.781525"
+       cy="29.964779"
+       r="3.5637736" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-opacity:1"
+       d="M 34.217751,29.964782 Z"
+       id="path12295" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-opacity:1"
+       d="M 34.217751,29.964782 Z"
+       id="path12297" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.391874;stroke-dasharray:1.17562, 0.391874;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 10.901628,10.473138 34.092083,29.859483"
+       id="path12301" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-dasharray:0.779895, 0.389948;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15810"
+       cx="48.992844"
+       cy="34.281845"
+       r="3.5637736" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-dasharray:1.16984, 0.389948;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15812"
+       cx="44.390133"
+       cy="32.665993"
+       r="3.5637736" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-dasharray:4.67937, 0.389948;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15814"
+       cx="39.362476"
+       cy="30.523098"
+       r="3.5637736" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-dasharray:2.3397, 0.389948;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle15816"
+       cx="41.475346"
+       cy="31.498993"
+       r="3.5637736" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.389948;stroke-opacity:1"
+       id="circle15826"
+       cx="8.0237703"
+       cy="8.092639"
+       r="3.5637736" />
+  </g>
+</svg>
