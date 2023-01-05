@@ -7,5 +7,5 @@ showLicense: false
 showToc: false
 ---
 
-You can send me an email at: `alvaro (dot) gaiotti (at) proton (dot) me`
+You can send me an email at: {{< rawhtml >}} <code>alvaro&nbsp;(dot)&nbsp;gaiotti&nbsp;(at)&nbsp;proton&nbsp;(dot)&nbsp;me</code>{{< /rawhtml >}}.
 
