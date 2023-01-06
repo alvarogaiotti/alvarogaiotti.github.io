@@ -32,7 +32,7 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
 author = "Alvaro Gaiotti"                # You can also set author in post front matter individually
-subTitle = "Philosophy, Causality and IT"
+subTitle = "Philosophy, Causality, Bridge and IT"
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
