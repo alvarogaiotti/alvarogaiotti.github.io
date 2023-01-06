@@ -16,7 +16,7 @@ In my free time I enjoy playing and teaching Bridge (I have been a member of Ita
 essays and contemporary American authors) and a recently discovered avid listener of old vinyl records (thanks to my dad and uncle's collection). I really enjoy running and cooking too.
 
 While I had a passion for medicine, physics and math since I was little, when it came to choose a degree,
-I went with Philosophy. While attending university, my philosophical interests evolved a quite a lot. Starting
+I went with Philosophy. While attending university, my philosophical interests evolved quite a lot. Starting
 with a passion for theoretical philosophy, I gradually developed a strong
 interest in analytic
 philosophy, mainly regarding philosophy of science, of medicine and of
