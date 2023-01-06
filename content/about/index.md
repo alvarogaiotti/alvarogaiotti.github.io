@@ -6,7 +6,7 @@ showLicense: false
 showToc: false
 ---
 
-Hello everyone, I'm Alvaro. I'm a recent (2022) graduate in Philosophical Sciences at Università
+Hello everyone, I'm Alvaro. I'm a recent (2022) graduate in Philosophical Sciences of Università
 degli Studi di Padova with a great passion for {{< rawhtml >}}<abbrtitle="Information Technology">IT</abbr>{{< /rawhtml >}}
 and technology in general.
 
