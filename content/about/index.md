@@ -13,7 +13,7 @@ and technology in general.
 {{< rawhtml >}} <figure style="text-align:center;"> <img src="alvaro.jpg" alt="myself" height=300px> <figcaption style="font-size:80%;">Me trying to come up with a backwash squeeze</figcaption></figure>{{< /rawhtml >}}
 
 In my free time I enjoy playing and teaching Bridge (I have been a member of Italy's U26 team since 2014), programming and finding out about new and exciting board games. I'm quite a bookworm (I particularly enjoy
-essays and contemporary American authors) and a recently discovered avid listener of old vinyl records (thanks to dad and uncle's collection). I really enjoy running and cooking too.
+essays and contemporary American authors) and a recently discovered avid listener of old vinyl records (thanks to my dad and uncle's collection). I really enjoy running and cooking too.
 
 While I had a passion for medicine, physics and math since I was little, when it came to choose a degree,
 I went with Philosophy. While attending university, my philosophical interests evolved a quite a lot. Starting
