@@ -34,4 +34,4 @@ and for quite a while on causality. I focused especially on
   [Master's Thesis](ModelliCausali.pdf). If you wanna learn more about the
   incredible world of causality, I wrote a post about it: [go check it out](/posts/causality)!
 
-This personal page was born with the aim of collecting some of the things I did during the years and to document the new exciting things I'm going to experience in the years to come. Come and join me in this journey and hop in the [Home](/) or [Archive](/archives) sections!
+This personal page was born with the aim of collecting some of the things I did during the years and to share some exciting stuff I'll find out in the years to come. Come and join me in this journey and hop in the [Home](/) or [Archive](/archives) sections!
