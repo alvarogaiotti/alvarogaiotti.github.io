@@ -143,7 +143,7 @@ sufficient for West to duck, removing a vital entry for dummy's Clubs. The idea 
 give up a trick to establish one trick later was quite counter-intuitive, wasn't it?
 
 
-## Mano 5
+## Hand 5
 {{< rawhtml >}}
 <figure style="text-align:center;">
 <img src="manomia1.png" class="toinvert" alt="Hand1">
