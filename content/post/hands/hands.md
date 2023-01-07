@@ -205,6 +205,6 @@ Here the complete diagram:
 </figure>
 {{< /rawhtml >}}
 
-Spectacular defence, indeed, but, had I trusted my insight and logic at the first opportunity, it would have been even more spectacular!
+Spectacular defence, indeed, but, had I trusted my insight and reasoning at the first opportunity, it would have been even more spectacular (and less riskier!).
 
 That's all for today. Thanks for reading and following me. I'll be back with more Bridge contents soon!
