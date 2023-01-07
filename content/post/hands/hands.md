@@ -18,13 +18,15 @@ Let's start _in medias res_:
 {{< /rawhtml >}}
 
 The bidding is not particularly exciting, just a standard Smolen sequence over 1NT.
-The play is reported under the figure, and the situation looks bleak: we already lost 3 tricks and we still have to
-tackle trumps. To bring trumps in with zero losers, we must hope for a original 4-1 break with the stiff J in North. We
-will need to finesse twice, starting with the {{< rawhtml >}} <span style="color:red;">&#9829;</span> {{< /rawhtml>}}Q,
-and then finesse the {{< rawhtml >}} <span style="color:red;">&#9829;</span> {{< /rawhtml>}}9. But even if trumps come
-in, we will be one trick short since we won't be able to ruff a Spade. So we'll need a squeeze, and, since South has to
-have four Hearts for our plan to succeed, North is a favorite to hold Clubs, besides the sure Spade guard. But, still,
-communications are a bit messy and a simple squeeze won't be able to work, so we'll need to go with a trump squeeze. So, while in
+The play is reported under the figure. The situation looks bleak: we already lost 3 tricks and we still have to
+tackle trumps. To bring trumps in with zero losers, we must hope for an original 4-1 break with stiff J in North.
+We'll need to finesse twice, starting with the {{< rawhtml >}} <span style="color:red;">&#9829;</span>{{< /rawhtml>}}Q,
+and then finesse the {{< rawhtml >}} <span style="color:red;">&#9829;</span>{{< /rawhtml>}}9. But even if trumps come
+in, we'll be one trick short since we won't be able to ruff a Spade. So we'll need some other way to find the fateful
+10th trick.A  squeeze looks like a great idea, since, as we need South to
+have four Hearts for our plan to succeed (bringing in trumps), North will be a favorite to hold a Club guard on top of
+the sure Spade guard. But, still,
+communications are a bit messy and a simple squeeze can't be set up, so we'll need to go with a trump squeeze. So, while in
 dummy, we play the  {{< rawhtml >}} <span style="color:red;">&#9829;</span>{{< /rawhtml>}}Q. Imagine that South doesn't
 cover (immaterial if he does) and the J drops. Now we know we can make the contract if North has at least 4 Clubs: we
 cash the  {{< rawhtml >}} <span style="color:OrangeRed;">&diams;</span>{{< /rawhtml>}}A discarding a Club, then we play a
@@ -165,9 +167,18 @@ Now the situations is quite weird, as West did not even suffer to discard the
 Diamond, and I think that with an original holding of 5 Diamonds he might as
 well have thought at least a couple of seconds (I played the hand extremely
 fast on purpose to not let the opponents think in the early tricks). So now I
-decided to go with my read and play East for a 5-3-5-0, playing a Diamond, hoping for the {{< rawhtml >}} <span style="color:OrangeRed;">&diams;</span>{{< /rawhtml>}}K in West, which would mean that the defence
+decided to go with my read and play East for a 5-3-5-0, imagining a layout like this:
+
+{{< rawhtml >}}
+<figure style="text-align:center;">
+<img src="manomiarid1.png" class="toinvert" alt="Hand1">
+</figure>
+{{< /rawhtml >}}
+
+
+Playing a Diamond and hoping for the {{< rawhtml >}} <span style="color:OrangeRed;">&diams;</span>{{< /rawhtml>}}K in West, which would mean that the defence
 cannot both set up a Spade and manage to run Diamonds (as Spades need to be played
-by East and for him to get in on the first round he must block the suit, has is partner is bound to have ), and if that happens, I can throw in West with the Queen of Spades, or, if
+by East and for him to get in on the first round he must block the suit), and if that happens, I can throw in West with the Queen of Spades, or, if
 they unblock the suit and cash it (what happened at the table), the last Diamond squeezes West. If they cash only three Diamonds and then play Spades, I can again endplay West by playing the Q of Spade. A really beautiful hand!
 
 ## Hand 6
@@ -180,8 +191,7 @@ they unblock the suit and cash it (what happened at the table), the last Diamond
 
 This another hand I played during the 7th World Youth Transnational Bridge Championships. This time, as you can see, I doubled a contract and I had to manage to beat it.
 
-After this telling auction, you must defend 3NT Doubled. I led the {{< rawhtml
->}} <span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}Q, West
+After this telling auction, you must defend 3NT Doubled. I led the {{< rawhtml>}} <span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}Q, West
 following, partner playing the {{< rawhtml >}} <span
 style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}6 (UDCA attitude I
 thought, turns out, in this situation, is quite a mess what signal should
@@ -205,6 +215,6 @@ Here the complete diagram:
 </figure>
 {{< /rawhtml >}}
 
-Spectacular defence, indeed, but, had I trusted my insight and reasoning at the first opportunity, it would have been even more spectacular (and less riskier!).
+Spectacular defence, indeed, but, had I trusted my insight and reasoning at the first opportunity, it would have been even more spectacular (and less risky!).
 
 That's all for today. Thanks for reading and following me. I'll be back with more Bridge contents soon!
