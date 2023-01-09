@@ -53,7 +53,7 @@ a Club to enjoy the established Spade; if he discards a Club, we ruff a Club, dr
 {{< /rawhtml >}}
 
 Not a really nice slam, but after the lead I was relieved as we already have two Spade tricks in the bag. South played small and I took with the Q. Then played the {{< rawhtml >}}
-<span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}Q, which was
+<span style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}Q, which was
 covered.
 Now I cannot go down no matter what I played, so I played a Heart (can you see why is
 it OK to risk a 6-0 Heart break? Hint: I saw it because I was looking for a squeeze)
@@ -72,7 +72,7 @@ discarded a Heart from dummy and South did the same. I tried to cash another Clu
 </figure>
 {{< /rawhtml >}}
 
-Now, when I cash the {{< rawhtml >}} <span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}7, a classic double squeeze operates.
+Now, when I cash the {{< rawhtml >}} <span style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}7, a classic double squeeze operates.
 
 ## Hand 3
 
@@ -131,11 +131,11 @@ next hand, too): I could count 4 tricks for the defence (2{{< rawhtml >}}
 <span style="color:black;">&spades;</span>{{< /rawhtml>}},1{{< rawhtml >}}
 <span style="color:OrangeRed;">&diams;</span>{{< /rawhtml>}} and 1{{< rawhtml >}}
 <span style="color:red;">&hearts;</span>{{< /rawhtml>}}), so it was simply a matter of establishing an extra trick, and not about breaking up declarer's communications! And, should have been clear to me, the only suit in which this trick can be established is Clubs (as I knew declare would have played on Clubs with Axx{{< rawhtml >}}
-<span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}). The only thing I
+<span style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}). The only thing I
 would have needed was to play a small Club, giving up a trick and helping to
 establish dummy's Club, of course, but declarer wouldn't have any way to really establish them: there weren't enough entries! So, no way to get Clubs tricks
 before defense is able to get 5 tricks: if declarer unblocked the {{< rawhtml
->}} <span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}A, whenever my
+>}} <span style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}A, whenever my
 partner took his {{< rawhtml >}} <span style="color:red;">&hearts;</span>{{<
 /rawhtml>}}K, he could cash his master Spade and play a Club for me to cash the
 King. If declarer tried to play Heart to the J to open up his communications
@@ -192,9 +192,9 @@ they unblock the suit and cash it (what happened at the table), the last Diamond
 
 This another hand I played during the 7th World Youth Transnational Bridge Championships. This time, as you can see, I doubled a contract and I had to manage to beat it.
 
-After this telling auction, you must defend 3NT Doubled. I led the {{< rawhtml>}} <span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}Q, West
+After this telling auction, you must defend 3NT Doubled. I led the {{< rawhtml>}} <span style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}Q, West
 following, partner playing the {{< rawhtml >}} <span
-style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}6 (UDCA attitude I
+style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}6 (UDCA attitude I
 thought, turns out, in this situation, is quite a mess what signal should
 partner provide and that spawned a quite heated discussion). Now I
 basically had quite a precise idea of declarer hand: he has not looked for a
@@ -205,7 +205,7 @@ contract but, I must admit it, I had a moment of fear and insecurity: the logic
 of the defence was crystal clear, declarer had at least 7 tricks in the bag,
 and if he had 7 Diamonds he would have had 8, and  I had to play him for 2-1-7-3 to have some hope to beat the contract. Besides, the required defence would have beaten the contract even if declarer would have been 2-1-6-4. But, I was unsure
 about the meaning of my partner's carding, and I hoped, in a silly way, for him to have
-{{< rawhtml >}} <span style="color:DarkGreen;">&clubs;</span>{{< /rawhtml>}}10, so I played a small club. Obviously, my partner produced the much dreaded 3.
+{{< rawhtml >}} <span style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}10, so I played a small club. Obviously, my partner produced the much dreaded 3.
 Now I had already gave the contract away, as I saw that, if declarer cashed everything, I would have been
 endplayed. But, luckily, declarer, unaware of the position, tried to sneak past my Ace of Heart to steal the ninth trick. I gave it a bit of thought, but I knew the only way to beat the contract now is to play declarer for 1-2-6-4, which is what I did: I went up with the {{< rawhtml >}} <span style="color:red;">&hearts;</span>{{< /rawhtml>}}A, cashed AK{{< rawhtml >}} <span style="color:black;">&spades;</span>{{< /rawhtml>}} and, finally, endplayed West with a Diamond.
 Here the complete diagram:
