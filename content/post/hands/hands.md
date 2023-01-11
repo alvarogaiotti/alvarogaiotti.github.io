@@ -52,7 +52,7 @@ a Club to enjoy the established Spade; if he discards a Club, we ruff a Club, dr
 </figure>
 {{< /rawhtml >}}
 
-Not a really nice slam, but after the lead I was relieved as we already have two Spade tricks in the bag. South played small and I took with the Q. Then played the {{< rawhtml >}}
+Not a really nice slam, but after the lead I was relieved as we already have two Spade tricks in the bag. South played small and I took with the Q. Then, I played the {{< rawhtml >}}
 <span style="color:ForestGreen;">&clubs;</span>{{< /rawhtml>}}Q, which was
 covered.
 Now I cannot go down no matter what I played, so I played a Heart (can you see why is
