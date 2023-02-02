@@ -32,6 +32,6 @@ and for quite a while on causality. I focused especially on
   of causality (which is quite a different beast compared to
   _old school_ theories). This effort culminated in the writing of my (soon to be translated in english)
   Master's Thesis. If you wanna learn more about the
-  incredible world of causality, I wrote a post about it: [go check it out](/posts/causality)!
+  incredible world of causality, I wrote a post about it: [go check it out](../post/the-causal-interpretation-problem/)!
 
 This personal page was born with the aim of collecting some of the things I did while studying or playing Bridge and to share some exciting stuff I'll find out in the years to come. Come and join me in this journey and hop in the [Home](/) or [Archive](/archives) sections!
