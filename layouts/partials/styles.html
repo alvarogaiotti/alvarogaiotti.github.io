@@ -1,17 +1,23 @@
 {{ if ne .Site.Params.disableDarkImage true }}
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" &gt;>
 <style>
-    @media (prefers-color-scheme: dark) {
-        body[data-theme='auto'] img {
-            filter: brightness(60%);
-        }
-
-        body[data-theme='auto'] img.toinvert{
-            filter: invert(80%);
-        }
+  @media (prefers-color-scheme: dark) {
+    body[data-theme='auto'] img {
+      filter: brightness(60%);
     }
 
-    body[data-theme='dark'] img {
-        filter: brightness(60%);
+    body[data-theme='auto'] img.toinvert {
+      filter: invert(80%);
     }
+  }
+
+  body[data-theme='dark'] img {
+    filter: brightness(60%);
+  }
+
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
 </style>
 {{ end }}
