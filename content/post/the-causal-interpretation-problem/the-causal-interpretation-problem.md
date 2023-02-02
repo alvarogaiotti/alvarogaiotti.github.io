@@ -12,14 +12,13 @@ This post is a rewritten version of a paper I wrote for the *Philosophy of Scien
 
 In support of a solution based on contrastive explanation, Broadbent
 [Broadbent, 2013] argues that causal models cannot aspire to a solution of the
-Causal Interpretation Problem ({{< rawhtml >}}<abbr title="Causal
-Interpretation Problem">CIP</abbr>{{< /rawhtml >}}). The {{< rawhtml >}}<abbr
-title="Causal Interpretation Problem">CIP</abbr>{{< /rawhtml >}} can be stated
+Causal Interpretation Problem ({{< rawhtml >}}<abbr title="Causal Interpretation Problem">CIP</abbr>{{< /rawhtml >}}).
+The {{< rawhtml >}}<abbr title="Causal Interpretation Problem">CIP</abbr>{{< /rawhtml >}} can be stated
 as such: &ldquo;How are we to interpret statistical measures of association as
 causal measures of effects of exposures?". In this post I'll discuss Broadbent's theory
-and his objections to a causal models based solution to the {{< rawhtml
->}}<abbr title="Causal Interpretation Problem">CIP</abbr>{{< /rawhtml >}}. I
-will next attempt to
+and his objections to a causal models based solution to the 
+{{< rawhtml >}}<abbr title="Causal Interpretation Problem">CIP</abbr>{{< /rawhtml >}}.
+I will next attempt to
 demonstrate why his arguments fall short and why even his method cannot be said
 to have resolved some of the issues he identifies in the causal models approach.
 
@@ -222,13 +221,13 @@ This kind of success is not explicable if they were not able to capture, at leas
 [Halpern and Pearl 2005] for a detailed presentation of those conditions.
 
 [^10]: Is always possible to construct an unlikely causal scenario which gives
-  rise to problems given a definition of what is a causal relation, or what is
+  rise to problems given a definition of what a causal relation is, or what does it mean
   to interpret a measure of association as having causal import. I do not mean
   to dismiss this problem as not relevant. Research is always pushed by
   convoluted and clever counterexamples that philosophers are able to find, so
   I'd prefer to treat them as an occasion for striving for improvement and
-  adjusting the account, and not as a serious undermining argument, unless the
-  flaw is displayed exclusively by said account. This is not the case, so I
+  adjusting the account, and not as a serious undermining arguments, unless the
+  flaw is displayed exclusively by said account. This is not the case here, so I
   will proceed bypassing this point [Danks 2017].
 [^11]:See _ivi_.
 [^12]:_ivi_.
